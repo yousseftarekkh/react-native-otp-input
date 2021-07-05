@@ -17,12 +17,19 @@ or
 
 ## Dependencies
 
-### NOTES: 
-From version 1.3.10: We use @react-native-community/clipboard to handle the clipboard in this package, So you should install @react-native-community/clipboard
+### NOTES:
 
-`npm install --save @react-native-community/clipboard`
+From version 1.3.12: We use @react-native-clipboard/clipboard to handle the clipboard in this package, So you should install @react-native-clipboard/clipboard
+
+```bash
+npm install --save @react-native-clipboard/clipboard
+```
+
 or
-`yarn add @react-native-community/clipboard`
+
+```bash
+yarn add @react-native-clipboard/clipboard
+```
 
 ## Basic Usage
 
